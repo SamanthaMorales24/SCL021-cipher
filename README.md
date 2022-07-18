@@ -1,4 +1,12 @@
-# Cifrado César
+Readme Cifrado Cesar.
+* Quiénes son los principales usuarios de producto.
+- Los principales usuarios de esta pagina son fans de la serie "Stranger Things", la idea surgio del apogeo en el que se encuentra la serie durante los dias en los que se crea este proyecto. En la serie, vemos que constantemente estan buscando formas distintas y complejas de poder comunicarse al "otro lado", que en la serie significa el lado de la ciudad que vive bajo sus pies. Este cifrado al ser con desplazamientos a elección esta creando un lenguaje secreto.
+* Cuáles son los objetivos de estos usuarios en relación con tu producto.
+- El objetivo es buscar una forma novedosa y divertida de comunicación que no sea facil de leer. 
+* Cómo crees que el producto que estás creando está resolviendo sus problemas.
+- El problema principal de la serie es la comunicación, ya que esta ambientada en la epoca de 1980 y las formas exitentes de comunicación son casi nulas, en ella podemos ver como los telefonos son el unico modo de comunicación en el mundo real de la serie, tambien se ve como el internet de los pequeños programas de computación que pueden ser utilizados son muy basicos, lo que hace que este cifrado pueda funcionar en ese tiempo/espacio.
+
+
 
 ## Índice
 

@@ -1,0 +1,90 @@
+body {
+  background-image: url(https://images.alphacoders.com/748/748808.png);
+  background-size:cover;
+}
+
+.contenedor {
+  width: 750px;
+  height: 600px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  margin: auto;
+  background-size:cover;
+  background-color: black;
+}
+
+#header {
+  color: rgb(255, 253, 253);
+  padding: 10px;
+  font-size: 40px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-style: oblique;
+  background-color: black;
+}
+
+h1 {
+  padding: 10px;
+  font-size: 20px;
+  color: rgb(255, 253, 253);
+  background-color: black;
+}
+
+#section {
+  color: rgb(255, 255, 255);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  margin: auto;
+
+  
+}
+
+h2{
+  color: rgb(255, 253, 253);
+ 
+  font-family: Arial, Helvetica, sans-serif;
+  
+}
+
+#mensaje{
+  padding: 10px;
+  font-size: 20px;
+  color: rgb(255, 253, 253);
+  background-color: black;
+
+}
+
+h3{
+  color: rgb(255, 253, 253);
+ 
+  font-family: Arial, Helvetica, sans-serif;
+  
+}
+
+#desplazamiento{
+  padding: 10px;
+  font-size: 20px;
+  color: rgb(255, 253, 253);
+  background-color: black;
+
+}
+
+h4{
+  color: rgb(255, 253, 253);
+ 
+  font-family: Arial, Helvetica, sans-serif;
+  
+}
+
+#mensaje2{
+  padding: 10px;
+  font-size: 20px;
+  color: rgb(255, 253, 253);
+  background-color: black;
+
+}
